@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+.DS_Store
+**/.DS_Store
+services/collector/.venv/

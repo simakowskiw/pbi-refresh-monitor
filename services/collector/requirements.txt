@@ -1,0 +1,4 @@
+httpx>=0.25.0
+jsonschema>=4.21.0
+msal>=1.25.0
+tenacity>=8.2.0
